@@ -9,10 +9,8 @@ products:
 ---
 
 ![Azure Synapse Content Recommendations Solution Accelerator](./images/repo-header.png)
-# About this repository
-This accelerator provides a simplified solution for creating personalized content recommendations based on user activity.
-
-Companies across industries are publishing content and gathering user activity data. As content stakeholders, we need to maintain and increase our customer engagements. Personalized recommendations can help our audience alleviate information overload, discover new content, and improve their overall experience. Targeting customers with personalzied content and advertising can help increase monetization opportunities within our product experiences.
+## About this repository
+This accelerator provides a simplified solution for creating personalized content recommendations based on user activity. Companies across industries are publishing content and gathering user activity data. As content stakeholders, we need to maintain and increase our customer engagements. Personalized recommendations can help our audience alleviate information overload, discover new content, and improve their overall experience. Targeting customers with personalized content and advertising can help increase monetization opportunities within our product experiences.
 
 ## Prerequisites
 To use this solution accelerator, you will need access to an [Azure subscription](https://azure.microsoft.com/free/). While not required, a prior understanding of data science, Azure, and Synapse will be helpful.
@@ -25,7 +23,7 @@ To use this solution accelerator, you will need access to an [Azure subscription
 ## Key concepts
 This solution accelerator focuses on the data insights that can be quickly achieved using a simple AI model and dataset. By analyzing content metadata and user activity, we can personalize recommendations based on each user's history and the similarity of other users' consumption patterns.
 
-The AI model accepts a single user and multiple content items as input to produce a click probablity score for each content item. A visualization tool is presented in Power BI to explore the personalized content recommendations for various users.
+The AI model accepts a single user and multiple content items as input to produce a click probability score for each content item. A visualization tool is presented in Power BI to explore the personalized content recommendations for various users.
 
 ## Reference Architecture
 This solution accelerator focuses the data science work needed to create personalized recommendations. We're leveraging a sample dataset that is pre-prepared and we're visualizing the insights using an admin view to explore various users. Please see the next steps section below for integrating your data sources, preparing the data, and deploying an API.
