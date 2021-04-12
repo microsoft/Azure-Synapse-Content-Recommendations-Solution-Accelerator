@@ -56,7 +56,7 @@ History | ID list of clicked items | N106403 N71977 N97080 N102132 N97212 N12165
  
 ### news.tsv
 | Column | Data Sample
-| ------------- | ------------- | -------------
+| ------------- | :-------------
 | News ID | N37378
 | Category | sports
 | SubCategory | golf
