@@ -9,7 +9,7 @@ products:
 ---
 
 ![Azure Synapse Content Recommendations Solution Accelerator](./images/repo-header.png)
-# Azure Synapse Content Recommendations Solution Accelerator
+# About this repository
 This accelerator provides a simplified solution for creating personalized content recommendations based on user activity.
 
 Companies across industries are publishing content and gathering user activity data. As content stakeholders, we need to maintain and increase our customer engagements. Personalized recommendations can help our audience alleviate information overload, discover new content, and improve their overall experience. Targeting customers with personalzied content and advertising can help increase monetization opportunities within our product experiences.
