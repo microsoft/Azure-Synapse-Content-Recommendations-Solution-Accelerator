@@ -2,7 +2,7 @@
 page_type: sample
 languages:
 - sql
-- pyspark
+- python
 products:
 - azure-synapse-analytics
 - power-bi
