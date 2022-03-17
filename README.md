@@ -1,7 +1,6 @@
 ---
 page_type: sample
 languages:
-- sql
 - python
 products:
 - azure-synapse-analytics
