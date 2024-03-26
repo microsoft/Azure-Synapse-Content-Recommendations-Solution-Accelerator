@@ -142,7 +142,9 @@
                 "sessionLevelPackagesEnabled": false,
                 "cacheSize": 0,
                 "dynamicExecutorAllocation": {
-                    "enabled": true
+                    "enabled": true,
+                    "minExecutors": 1,
+                    "maxExecutors": 10
                 },
                 "provisioningState": "Succeeded"
             }
